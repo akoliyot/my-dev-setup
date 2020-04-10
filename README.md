@@ -18,6 +18,7 @@ Window Manager
 
 ## User Environment (.zshrc)
 **Adding separators between commands:** 
+![terminal-command-separator](./screenshots/terminal-command-separator.png)
 ```
 #
 # Setup for adding separators between commands on the terminal.
