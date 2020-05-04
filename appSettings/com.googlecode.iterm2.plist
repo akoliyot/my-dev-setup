@@ -432,7 +432,7 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>230 833 592 584 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 0 1440 900 0 0 1440 877 </string>
+	<string>642 325 1760 1092 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>223 0 1214 877 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
@@ -1187,7 +1187,7 @@
 			<key>Visual Bell</key>
 			<true/>
 			<key>Window Type</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>Working Directory</key>
 			<string>/Users/aswin</string>
 		</dict>
@@ -1944,8 +1944,8 @@
 		<string>3.3.5</string>
 		<string>3.3.7</string>
 		<string>3.3.9</string>
-		<string>3.3.0</string>
 		<string>3.2.9</string>
+		<string>3.3.0</string>
 		<string>3.3.2</string>
 	</array>
 	<key>NoSyncFrame_SessionsPreferences</key>
@@ -1958,9 +1958,9 @@
 	<key>NoSyncFrame_SharedPreferences</key>
 	<dict>
 		<key>screenFrame</key>
-		<string>{{0, 0}, {1440, 900}}</string>
+		<string>{{0, 0}, {2560, 1440}}</string>
 		<key>topLeft</key>
-		<string>{303, 663}</string>
+		<string>{883, 1123}</string>
 	</dict>
 	<key>NoSyncHaveRequestedFullDiskAccess</key>
 	<true/>
@@ -1973,7 +1973,11 @@
 	<key>NoSyncLastTipTime</key>
 	<real>566472246.97255397</real>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>331</integer>
+	<integer>375</integer>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NoSyncNextAnnoyanceTime</key>
 	<real>586425538.41178</real>
 	<key>NoSyncOnboardingWindowHasBeenShown</key>
@@ -2763,7 +2767,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-04-10T10:27:59Z</date>
+	<date>2020-05-04T18:07:52Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateGroupIdentifier</key>
